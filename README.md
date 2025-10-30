@@ -8,13 +8,6 @@ The app fetches data from the **USGS Earthquake API** and plots them on a world 
 
 ---
 
-## 👩‍🎓 User Persona
-**Name:** Casey  
-**Occupation:** Geography Student  
-**Need:** Casey wants to visualize recent earthquake activity around the world to understand seismic patterns.
-
----
-
 ## 🚀 Features
 ✅ Interactive world map showing recent earthquakes  
 ✅ Real-time data from the **USGS Earthquake API**  
